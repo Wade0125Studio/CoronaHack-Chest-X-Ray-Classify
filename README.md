@@ -126,16 +126,16 @@ Because the database is limited, we use image enhancement technology (random sca
 </div>
 <h3>Self-Define</h3>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20EfficientNetV2M.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20self-define.png">
 </div>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20EfficientNetV2M.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20Self-Define.png">
 </div>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2M-Results.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Self-Define-Result.png">
 </div>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2M%20Results%20EX.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Self-Define%20Results%20EX.png">
 </div>
 
 
