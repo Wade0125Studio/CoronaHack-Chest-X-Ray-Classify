@@ -17,6 +17,30 @@ The training set has a total of 5286 images, 3944 images of the diseased and 134
 In this study, we employ various convolutional neural network models to classify the CoronaHack - Chest X-Ray Dataset. These models include Xception, VGG16, VGG19, ResNet101V2, InceptionV3, InceptionResNetV2, EfficientNetV2S, and EfficientNetV2M and self define.
 These models are all trained on ImageNet and have good image recognition capabilities. We use these pre trained models to classify pneumonia and normal chest radiographs. By fine tuning the weights of these pre trained models, we can apply these models to our classification tasks and can effectively improve the classification accuracy of the models.
 Because the database is limited, we use image enhancement technology (random scaling and random brightness adjustment and random movement of height and width), the optimizer uses Adamax, the learning rate is 0.0001, and the training is 100 times.
+<h2>Experiment and Results:</h2>
+<h3>Xception</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20Xception.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20Xception.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Xception-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Xception%20results%20EX.png">
+</div>
+
+<h3>VGG16</h3>
+<h3>VGG19</h3>
+<h3>ResNet101V2</h3>
+<h3>InceptionV3</h3>
+<h3>InceptionResNetV2</h3>
+<h3>EfficientNetV2S</h3>
+<h3>EfficientNetV2M</h3>
+<h3>Self-Define</h3>
+
 
 <h2>Conclusion:</h2>
 In this study, we used multiple convolutional neural network (CNN) models to classify the CoronaHack - Chest X-Ray Dataset collected during the COVID-19 pandemic, with the aim of assisting in the automation of COVID-19 diagnosis. Through experimental comparisons of various models, we found that the VGG19 model had the highest classification accuracy, followed by the Self-Define, InceptionResNetV2, and EfficientNetV2M models. The COVID-19 detection accuracy of these models reached an extremely high level.
