@@ -18,7 +18,7 @@ In this study, we employ various convolutional neural network models to classify
 These models are all trained on ImageNet and have good image recognition capabilities. We use these pre trained models to classify pneumonia and normal chest radiographs. By fine tuning the weights of these pre trained models, we can apply these models to our classification tasks and can effectively improve the classification accuracy of the models.
 Because the database is limited, we use image enhancement technology (random scaling and random brightness adjustment and random movement of height and width), the optimizer uses Adamax, the learning rate is 0.0001, and the training is 100 times.
 <h2>Experiment and Results:</h2>
-<h3>Xception</h3>
+<h3 align="center">Xception</h3>
 <div align="center">
 <img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20Xception.png">
 </div>
