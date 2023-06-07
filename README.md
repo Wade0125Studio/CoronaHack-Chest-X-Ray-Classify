@@ -46,8 +46,45 @@ Because the database is limited, we use image enhancement technology (random sca
 <img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/VGG16%20results%20EX.png">
 </div>
 <h3>VGG19</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20VGG19.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20VGG19.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/VGG19-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/VGG19%20results%20EX.png">
+</div>
 <h3>ResNet101V2</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20ResNet101V2.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20ResNet101V2.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/ResNet101V2-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/ResNet101V2%20results%20EX.png">
+</div>
 <h3>InceptionV3</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20InceptionV3.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20InceptionV3.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionV3-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionV3%20results%20EX.png">
+</div>
+
 <h3>InceptionResNetV2</h3>
 <h3>EfficientNetV2S</h3>
 <h3>EfficientNetV2M</h3>
