@@ -82,13 +82,61 @@ Because the database is limited, we use image enhancement technology (random sca
 <img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionV3-Results.png">
 </div>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionResNetV2%20Results%20EX.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionV3%20Results%20EX.png">
 </div>
 
 <h3>InceptionResNetV2</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20InceptionResNetV2.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20InceptionResNetV2.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionResNetV2-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionResNetV2%20Results%20EX.png">
+</div>
 <h3>EfficientNetV2S</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20EfficientNetV2S.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20EfficientNetV2S.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2S-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2S%20Results%20EX.png">
+</div>
 <h3>EfficientNetV2M</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20EfficientNetV2M.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20EfficientNetV2M.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2M-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2M%20Results%20EX.png">
+</div>
 <h3>Self-Define</h3>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Training_history%20EfficientNetV2M.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/Confusion%20Matrix%20EfficientNetV2M.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2M-Results.png">
+</div>
+<div align="center">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/EfficientNetV2M%20Results%20EX.png">
+</div>
 
 
 <h2>Conclusion:</h2>
