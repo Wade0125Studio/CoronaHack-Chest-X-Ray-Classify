@@ -69,7 +69,7 @@ Because the database is limited, we use image enhancement technology (random sca
 <img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/ResNet101V2-Results.png">
 </div>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/ResNet101V2%20results%20EX.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/ResNet101V2%20Results%20EX.png">
 </div>
 <h3>InceptionV3</h3>
 <div align="center">
@@ -82,7 +82,7 @@ Because the database is limited, we use image enhancement technology (random sca
 <img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionV3-Results.png">
 </div>
 <div align="center">
-<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionV3%20results%20EX.png">
+<img src="https://github.com/Wade0125Studio/CoronaHack-Chest-X-Ray-Classify/blob/main/img/InceptionResNetV2%20Results%20EX.png">
 </div>
 
 <h3>InceptionResNetV2</h3>
